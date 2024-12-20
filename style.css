@@ -328,7 +328,7 @@ body {
 .page-loader .txt {
   color: #666;
   text-align: center;
-  top: 5%;
+  top: 15%;
   position: relative;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
@@ -341,7 +341,7 @@ body {
   
   z-index: 0;
   position: relative;
-  top: 40.4%;
+  top: 39%;
   left: 0px;
   width: 80px;
   height: 80px;
